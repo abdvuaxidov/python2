@@ -197,11 +197,10 @@
 
 
 
-menu = ['hot dog','gamburberg','pizza','lavash']
-zakas = input('Nma zakas qlasz\n>')
-if zakas.lower() in menu:
-    print('Zakas olndi')
-else:
-    print('Bu taom yoq bzada')
+# menu = ['hot dog','gamburberg','pizza','lavash']
+# zakas = input('Nma zakas qlasz\n>')
+# if zakas.lower() in menu:
+#     print('Zakas olndi')
+# else:
+#     print('Bu taom yoq bzada')
 
-print('hello')
